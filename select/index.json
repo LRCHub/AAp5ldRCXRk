@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "XMAS NIGHT",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-01T13:50:22.950346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(It's Xmas Night Would You) Please Come Home",
+      "artist": "Rigby",
+      "has_synced": true,
+      "path": "select/01_(It's_Xmas_Night_Would_You)_Please_Come_Home_Rigby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(It's Xmas Night Would You) Please Come Home",
+      "artist": "Rigby",
+      "has_synced": true,
+      "path": "select/02_(It's_Xmas_Night_Would_You)_Please_Come_Home_Rigby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Xmas Night",
+      "artist": "LeXanax",
+      "has_synced": false,
+      "path": "select/03_Xmas_Night_LeXanax.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "X’mas Night",
+      "artist": "工藤静香",
+      "has_synced": false,
+      "path": "select/04_X’mas_Night_工藤静香.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "XMAS NIGHT",
+      "artist": "Jaken",
+      "has_synced": false,
+      "path": "select/05_XMAS_NIGHT_Jaken.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "XMAS NIGHT",
+      "artist": "Last Fist Hero",
+      "has_synced": false,
+      "path": "select/06_XMAS_NIGHT_Last_Fist_Hero.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "X'mas Night",
+      "artist": "工藤 静香",
+      "has_synced": false,
+      "path": "select/pl_01_X'mas_Night_工藤_静香.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "X'mas Night",
+      "artist": "工藤 静香",
+      "has_synced": false,
+      "path": "select/pl_02_X'mas_Night_工藤_静香.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "X'mas Night",
+      "artist": "工藤 静香",
+      "has_synced": false,
+      "path": "select/pl_03_X'mas_Night_工藤_静香.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Xmas Night",
+      "artist": "工藤 静香",
+      "has_synced": false,
+      "path": "select/pl_04_Xmas_Night_工藤_静香.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Xmas Night",
+      "artist": "工藤 静香",
+      "has_synced": false,
+      "path": "select/pl_05_Xmas_Night_工藤_静香.txt"
+    }
+  ]
+}
